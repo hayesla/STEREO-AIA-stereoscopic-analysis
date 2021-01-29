@@ -2,7 +2,7 @@
 
 This repository holds some analysis codes for downloading, processing and plotting stereoscopic observations from SDO/AIA and STEREO-A and STEREO-B.
 
-<img src="output.gif" width="250" height="250" class="center"/>
+<img src="output.gif" width="350" height="350"/>
 
-<p style="text-align:center;"><img src="output.gif" width="250" height="250" class="center"/></p>
+
 
