@@ -4,13 +4,13 @@ This repository holds some analysis codes for downloading, processing and plotti
 Some of this analysis code is based on [this SunPy example](https://docs.sunpy.org/en/stable/generated/gallery/map_transformations/reprojection_aia_euvi_mosaic.html#sphx-glr-generated-gallery-map-transformations-reprojection-aia-euvi-mosaic-py). This repository also holds some code to search and download the STEREO EUVI beacon data. Below is an example of a plot that can be generated for a particular day:
 
 <div>
-    <img class="marginauto" src="mos_map_0725.png" alt="centered image" width="400" height="280"/>
+    <img class="marginauto" src="mos_map_0725.png" alt="centered image"/>
 </div>
 
 In the notebook `STEREO_AIA_3D plotting.ipynb` you can find an outlined example of how to use [sunpy](https://sunpy.org/), [astropy](https://www.astropy.org/), [reproject](https://pypi.org/project/reproject/) and [plotly](https://plotly.com/python/) to plot the full-Sun image and interact with it. Below is a gif of an example of the output. 
 
 <div>
-<img class="marginauto" src="output.gif" alt="centered image" width="350" height="350"/>
+<img class="marginauto" src="output.gif" alt="centered image"/>
 </div>
 
 
